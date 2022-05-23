@@ -8,7 +8,11 @@ Realizar a instalação do MySql pelo sequinte link: https://dev.mysql.com/downl
 
 Após a instalação, criar o banco de dados "sistema_de_venda". 
 
-Realizar o primeiro cadastro de usuário no banco usando o seguinte comando SQL- INSERT INTO sistema_de_venda (  Nome, Email, Senha) VALUES ("InsiraAquiONome", "InsiraAquiOEmail", "InsiraAquiASenha");
+Executar os scripts da pasta /SQL. para criação das tabelas e popular os dados nas tabelas.
+
+Realizar o primeiro acesso usando as credenciais login --- jose@gmail.com e senha --- 123456
+
+Na classe DAL colocar as credenciais de acesso ao servidor MYSQL - Server, User e Password.
 
 Acesso pelo VS Code: 
 
