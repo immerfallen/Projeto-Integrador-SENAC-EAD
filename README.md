@@ -8,7 +8,7 @@ Realizar a instalação do MySql pelo sequinte link: https://dev.mysql.com/downl
 
 Após a instalação, criar o banco de dados "sistema_de_venda". 
 
-Realizar o primeiro cadastro de usuário no banco usando o seguinte comando SQL- INSERT INTO siste_de_venda (  Nome, Email, Senha) VALUES ("InsiraAquiONome", "InsiraAquiOEmail", "InsiraAquiASenha");
+Realizar o primeiro cadastro de usuário no banco usando o seguinte comando SQL- INSERT INTO sistema_de_venda (  Nome, Email, Senha) VALUES ("InsiraAquiONome", "InsiraAquiOEmail", "InsiraAquiASenha");
 
 Acesso pelo VS Code: 
 
