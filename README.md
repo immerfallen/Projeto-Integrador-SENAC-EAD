@@ -12,6 +12,8 @@ Executar os scripts da pasta /SQL. para criação das tabelas e popular os dados
 
 Realizar o primeiro acesso usando as credenciais login --- jose@gmail.com e senha --- 123456
 
+Na classe DAL colocar as credenciais de acesso ao servidor MYSQL - Server, User e Password.
+
 Acesso pelo VS Code: 
 
 Entrar no terminal na pasta raiz.;
